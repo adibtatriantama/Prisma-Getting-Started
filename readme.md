@@ -13,3 +13,10 @@
 
     - creates a new directory called prisma that contains a file called schema.prisma, which contains the Prisma schema with your database connection variable and schema models
     - creates the .env file in the root directory of the project, which is used for defining environment variables (such as your database connection)
+
+## Connect your database
+
+1. Modify prisma/schema.prisma
+2. Set database url in .env
+3. Define that we are using preview feature (Because MongoDB is currently a preview feature)
+4. 

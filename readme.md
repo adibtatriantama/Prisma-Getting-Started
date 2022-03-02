@@ -23,3 +23,15 @@
 ## Creating the Prisma Schema
 
 1. See schema.prisma
+
+## Install and generate Prisma Client
+
+1. Install Prisma Client
+
+        npm install @prisma/client
+
+2. Generate Prisma
+
+        prisma generate
+
+![Prisma Client](https://res.cloudinary.com/prismaio/image/upload/v1628761155/docs/FensWfo.png)

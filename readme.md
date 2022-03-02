@@ -42,3 +42,9 @@
 2. run the code
 
         npx ts-node index.ts
+
+## Next Steps
+
+1. See [Api Reference](https://www.prisma.io/docs/concepts/components/prisma-client)
+2. Explore the date in prisma studio `npx prisma studio`
+3. Try [Prisma example](https://github.com/prisma/prisma-examples/)

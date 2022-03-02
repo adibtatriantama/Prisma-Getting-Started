@@ -19,4 +19,7 @@
 1. Modify prisma/schema.prisma
 2. Set database url in .env
 3. Define that we are using preview feature (Because MongoDB is currently a preview feature)
-4. 
+
+## Creating the Prisma Schema
+
+1. See schema.prisma

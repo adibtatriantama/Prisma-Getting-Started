@@ -35,3 +35,10 @@
         prisma generate
 
 ![Prisma Client](https://res.cloudinary.com/prismaio/image/upload/v1628761155/docs/FensWfo.png)
+
+## Querying the Database
+
+1. See index.ts
+2. run the code
+
+        npx ts-node index.ts
